@@ -1,0 +1,29 @@
+
+.navbar {
+    background-color: #58ACFA;
+}
+
+.quem-sou {
+    background-color: #2E9AFE;
+    color: white;
+}
+
+.parceiros {
+    background-color: #0080FF;
+    color: white;
+}
+
+.servicos {
+    background-color: #0174DF;
+    color: white;
+}
+
+.footer {
+    background-color: #045FB4;
+    color: white;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
